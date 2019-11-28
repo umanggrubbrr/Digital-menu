@@ -1,0 +1,86 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: BurgerIM Digital Menu Board - Tier 1 - Screen 3.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 1080 pt x 1920 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Montserrat Bold (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Roboto Bold (TrueType)
+Roboto Medium (TrueType)
+Roboto Italic (TrueType)
+Roboto (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\AshOtocki\Box Sync\GRUBBRR - UI UX\Customer Files\BurgerIM\Menu Images\wingmenu-320x214.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 334K, 320 by 214 pixels
+Dimensions: 501.099 by 335.11 points 
+Resolution: 45.979 by 45.979 pixels per inch
+
+
+C:\Users\AshOtocki\Box Sync\GRUBBRR - UI UX\Customer Files\BurgerIM\Menu Images\MILKSHAKEMENU-320x320.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 500K, 320 by 320 pixels
+Dimensions: 454.11 by 454.11 points 
+Resolution: 50.737 by 50.737 pixels per inch
+
+
+C:\Users\AshOtocki\Box Sync\GRUBBRR - UI UX\Customer Files\BurgerIM\Menu Images\MILKSHAKEMENU-320x320.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 500K, 320 by 320 pixels
+Dimensions: 424.615 by 424.615 points 
+Resolution: 54.261 by 54.261 pixels per inch
+
+
+C:\Users\AshOtocki\Box Sync\GRUBBRR - UI UX\Customer Files\BurgerIM\Menu Images\wingmenu-320x214.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 334K, 320 by 214 pixels
+Dimensions: 512.703 by 333.038 points 
+Resolution: 44.938 by 46.265 pixels per inch
+
+
+C:\Users\AshOtocki\Box Sync\GRUBBRR - UI UX\Customer Files\BurgerIM\Menu Images\cocacola_logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 2332K, 1200 by 398 pixels
+Dimensions: 108.53 by 35.996 points 
+Resolution: 796.091 by 796.091 pixels per inch

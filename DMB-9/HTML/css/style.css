@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900,900i&display=swap');
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;
+*/
+.container{
+    max-width: 1024px;
+    min-width: 1024px;
+}
+.banner h1{
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    line-height: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.banner h1::after{
+    content: '';
+    width: 175px;
+    height: 3px;
+    background: #4F4F4F;
+    position: absolute;
+    display: inline-block;
+    top: 50%;
+    right: 15px;
+}
+.banner h1::before{
+    content: '';
+    width: 175px;
+    height: 3px;
+    background: #4F4F4F;
+    position: absolute;
+    display: inline-block;
+    top: 50%;
+    left: 15px;
+}
+h1.sub-menu-title{
+    font-size: 60px;
+    text-align: center;
+    position: relative;
+    max-width: 720px;
+    margin: 0 auto;
+    color: #F36E21;
+}
+h1.sub-menu-title::after{
+    content: '';
+    width: 145px;
+    height: 3px;
+    background: #4F4F4F;
+    position: absolute;
+    display: inline-block;
+    top: 50%;
+    right: -15px;
+}
+h1.sub-menu-title::before{
+    content: '';
+    width: 145px;
+    height: 3px;
+    background: #4F4F4F;
+    position: absolute;
+    display: inline-block;
+    top: 50%;
+    left: -15px;
+}
+.banner p{
+    font-size: 26px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+main{
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 10px 0;
+    font-family: 'Roboto', sans-serif;
+}
+main img.mx-auto.d-block {
+    min-height: 205px;
+    max-height: 205px;
+    height: 100%;
+}
+.menu-title{
+    font-family: 'Montserrat', sans-serif;
+    color: #F36E21;
+    font-size: 55px;
+    line-height: 42px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.menu-list{
+    width: 100%;
+    display: inline-block;
+}
+.menu-list .item-name{
+    font-size: 24px;
+    color: #231F20;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 38px;
+}
+.menu-list strong{
+    font-weight: 700;
+    font-style: normal;
+   
+}
+.menu-list .price{
+    font-weight: 500;
+    text-align: right;
+    font-style: normal;
+    line-height: 40px;
+}
+.menu-list strong small{
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+}
+.offer-box{
+    background-image: url('../img/offer-back.png');
+    padding: 60px;
+    height: 320px;
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.outline-box{
+    border: 1px solid #231F20;
+    margin-top: 50px;
+    padding: 0px 50px;
+    position: relative;
+    min-height: 495px;
+    margin-bottom: 50px;
+}
+
+.outline-box .menu-title{
+    background: #fff;
+    display: table;
+    margin-top: -35px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #F36E21;
+    padding: 15px 30px;
+}
+.menu-sub-title{
+    font-family: 'Montserrat', sans-serif;
+    color: #F36E21;
+    font-size: 40px;
+    line-height: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.menu-sub-title span{
+    font-weight: 500;
+    color: #000000;
+}
+.font-18{
+    font-size: 18px !important;
+    line-height: normal !important;
+}
+.borderdashed-right{
+    position: relative;
+
+}
+.borderdashed-right::after{
+    content: '';
+    border-right: 2px dashed #231F20;
+    display: inline-block;
+    height: 390px;
+    width: 2px;
+    position: absolute;
+    right: 0;
+    top: 22%;
+}
+.borderdashed-right.border-90::after{
+    height: 90%;
+    top: 0;
+}
+.outline-box .tagline{
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.red-text{
+    color: #B51F24;
+}
+.menu-list-ul-ib li {
+    display: inline-block;
+    width: 24%;
+}
+
+.menu-list-ul-ib li .item-name{
+    white-space: nowrap;
+}
+.sharing-name h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #F36E21;
+    font-size: 26px;
+    line-height: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    text-align: center;
+    white-space: nowrap;
+} 
+.sharing-name h2 span{
+    color: #231F20;
+}
+.sharing-name p{
+    font-size: 15px;
+    color: #231F20;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+}
+.sharing-name p i{
+    font-weight: 400;
+}
+.sharing-name img{
+    display: block;
+    margin: 5px auto;
+}
+.bottom-specification{
+    background: url('../img/bottom.png');
+    width: 100%;
+    height: auto;
+    background-size: 100% 100%;
+    padding: 40px 0;
+}
+.bottom-specification span{
+    font-size: 18px;
+    color: #231F20;
+    font-weight: 700;
+    line-height: 38px;
+    text-align: center;
+}
+.bottom-specification i{
+    font-size: 15px;
+    color: #231F20;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+.sideview{
+    padding-left: 5px;
+}
+.outline-box img.mx-auto.d-block{
+    min-height: auto;
+    max-height: none;
+}
+.outline-box .price{
+    font-weight: 700;
+    font-size: 42px;
+}

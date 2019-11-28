@@ -1,0 +1,9 @@
+config/databases.yml
+cache
+log
+data/sql
+lib/*/base
+lib/model/map
+lib/model/om
+*.zip
+*.ai
